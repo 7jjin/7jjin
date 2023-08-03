@@ -4,6 +4,9 @@
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=7jjin&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgud6305)](https://solved.ac/rlatngus1691/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7jjin&layout=compact"><br><br>
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
