@@ -1,7 +1,7 @@
 ### Jo Jin-Hyeong 😊
 - Front-end Developer
 
-![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![typescript](https://img.shields.io/badge/type%20script-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=7jjin&show_icons=true&theme=radical) 
