@@ -1,5 +1,5 @@
 ### Jo Jin-Hyeong 😊
-- Front-end Developer
+- Software Developer
 
 ![typescript](https://img.shields.io/badge/type%20script-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
